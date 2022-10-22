@@ -1,11 +1,11 @@
-### Hello!
+## Hello!
 ---
 
-#### 🧑‍💻 About me
+### 🧑‍💻 About me
 
 I am Dmitry, a frontend developer, blah-blah.
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -18,7 +18,7 @@ I am Dmitry, a frontend developer, blah-blah.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-#### 🤝 Contacts
+### 🤝 Contacts
 
 <p align="left">
 <a href="mailto:blednovski@gmail.com"><img src="https://img.shields.io/badge/-blednovski@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
